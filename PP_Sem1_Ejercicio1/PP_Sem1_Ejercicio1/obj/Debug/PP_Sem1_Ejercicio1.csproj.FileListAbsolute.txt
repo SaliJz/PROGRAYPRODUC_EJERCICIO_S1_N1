@@ -1,0 +1,7 @@
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\bin\Debug\PP_Sem1_Ejercicio1.exe.config
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\bin\Debug\PP_Sem1_Ejercicio1.exe
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\bin\Debug\PP_Sem1_Ejercicio1.pdb
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\obj\Debug\PP_Sem1_Ejercicio1.csproj.AssemblyReference.cache
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\obj\Debug\PP_Sem1_Ejercicio1.csproj.CoreCompileInputs.cache
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\obj\Debug\PP_Sem1_Ejercicio1.exe
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\PP_Sem1_Ejercicio1\obj\Debug\PP_Sem1_Ejercicio1.pdb
