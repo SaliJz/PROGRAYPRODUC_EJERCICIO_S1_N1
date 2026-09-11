@@ -1,0 +1,7 @@
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\Ejercicio_FigureAreas\Ejercicio_FigureAreas\bin\Debug\Ejercicio_FigureAreas.exe.config
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\Ejercicio_FigureAreas\Ejercicio_FigureAreas\bin\Debug\Ejercicio_FigureAreas.exe
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\Ejercicio_FigureAreas\Ejercicio_FigureAreas\bin\Debug\Ejercicio_FigureAreas.pdb
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\Ejercicio_FigureAreas\Ejercicio_FigureAreas\obj\Debug\Ejercicio_FigureAreas.csproj.AssemblyReference.cache
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\Ejercicio_FigureAreas\Ejercicio_FigureAreas\obj\Debug\Ejercicio_FigureAreas.csproj.CoreCompileInputs.cache
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\Ejercicio_FigureAreas\Ejercicio_FigureAreas\obj\Debug\Ejercicio_FigureAreas.exe
+J:\GD\PROGRAYPRODU\PP_Sem1_Ejercicio1\Ejercicio_FigureAreas\Ejercicio_FigureAreas\obj\Debug\Ejercicio_FigureAreas.pdb
